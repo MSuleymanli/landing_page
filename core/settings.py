@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-b2p!eosgkg08fssj)b4a7dh!x&qd2jk_l)2elnf%na6pg)3*u7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0','localhost','mansur.az']
 
 
 # Application definition
